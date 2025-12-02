@@ -1,5 +1,5 @@
 # Juan Rodríguez Castellano Cibersecurity-portfolio
-Cybersecurity Portfolio - SOC Analyst | SIEM | EDR | Incident Response | CompTIA Security+ Certified
+ SOC Analyst | SIEM | EDR | Incident Response | Pentester junior
 
 Sobre mí
 
@@ -18,6 +18,7 @@ Automatización: Python y Bash para optimización de procesos SOC
 Proyectos Destacados
 
 1.  Campañas de concienciacion con GoPhish
+
 Sistema completo de análisis de campañas de phishing con GoPhish
 
 Configuración automatizada de infraestructura SMTP
@@ -26,13 +27,16 @@ Reportes ejecutivos y técnicos
 Stack: GoPhish, Python, Bash
 
 2.  Creacion de reglas personalizadas para SIEM
+
 Colección de reglas de detección personalizadas para SIEM
 
 Reglas para  Wazuh
+
 Detección de técnicas MITRE ATT&CK
 Correlación de eventos avanzada
 
 3.  Herramienta de parseo automatico de logs
+
 Scripts automatizados para análisis forense de logs y correlación de eventos
 
 Parsing automático de múltiples formatos
@@ -40,10 +44,12 @@ Detección de IOCs y comportamientos anómalos
 Generación de líneas temporales
 Stack: Bash, Python, Regex
 
-4.  ENS 
+4.  ENS
+   
 Framework de auditoría basado en Esquema Nacional de Seguridad
 
-5. OSINT 
+5. OSINT
+
 Herramientas y scripts para investigaciones OSINT
 
 Recopilación automatizada de información

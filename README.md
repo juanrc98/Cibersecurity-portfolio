@@ -1,7 +1,7 @@
 # Juan Rodríguez Castellano Cibersecurity-portfolio
  SOC Analyst | SIEM | EDR | Incident Response | Pentester junior
 
-**Sobre mí**
+***Sobre mí***
 
 Técnico Superior en Administración de Sistemas Informáticos y Redes, especializado en ciberseguridad ofensiva y defensiva. Experiencia en entornos SOC realizando monitorización 24/7, análisis y correlación de eventos mediante SIEM, respuesta a incidentes con herramientas EDR/XDR y desarrollo de campañas de concienciación.
 Certificado en CompTIA Security+ y Google Cybersecurity.

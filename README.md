@@ -43,7 +43,7 @@ Correlación avanzada
 
 Reducción de ruido y mejora de efectividad
 
-Herramienta de Parseo Automático de Logs
+**Herramienta de Parseo Automático de Logs**
 
 Automatización para análisis forense y correlación.
 

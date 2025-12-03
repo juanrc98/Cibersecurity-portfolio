@@ -21,6 +21,7 @@ Análisis de Malware: Identificación de IoCs, análisis estático/dinámico y e
 Automatización: Desarrollo de scripts en Python y Bash para optimizar procesos y flujos SOC.
 
 Proyectos Destacados
+
 Campañas de Concienciación con GoPhish
 
 Sistema completo para la ejecución y análisis de campañas de phishing.

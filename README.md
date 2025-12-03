@@ -3,56 +3,71 @@
 
 Sobre mí
 
-Técnico Superior en Administración de Sistemas Informáticos y Redes, especializado en ciberseguridad ofensiva y defensiva. Experiencia en entorno SOC realizando monitorización 24/7, análisis y correlación de eventos con SIEM, respuesta a incidentes mediante EDR/XDR y despliegue de campañas de concienciación. Certificado en CompTIA Security+ y Google Cybersecurity.
+Técnico Superior en Administración de Sistemas Informáticos y Redes, especializado en ciberseguridad ofensiva y defensiva. Experiencia en entornos SOC realizando monitorización 24/7, análisis y correlación de eventos mediante SIEM, respuesta a incidentes con herramientas EDR/XDR y desarrollo de campañas de concienciación.
+Certificado en CompTIA Security+ y Google Cybersecurity.
 
 Áreas de especialización
 
-SOC Operations: Monitorización 24/7, análisis de comportamiento y threat hunting
-SIEM: Logpoint, Wazuh, Splunk, IBM QRadar - Optimización de reglas y correlación
-EDR/XDR: Trend Micro, Cynet - Respuesta a incidentes y aislamiento de endpoints
-Análisis Forense: Investigación de incidentes en entornos Linux/Windows
-Análisis de Malware: Identificación de IoCs y análisis de comportamiento
-Automatización: Python y Bash para optimización de procesos SOC
+SOC Operations: Monitorización continua, análisis de comportamiento, threat hunting.
 
+SIEM: Logpoint, Wazuh, Splunk, IBM QRadar — Optimización de reglas, creación de correlaciones y tuning de alertas.
+
+EDR/XDR: Trend Micro, Cynet — Respuesta a incidentes, contención e aislamiento de endpoints.
+
+Análisis Forense: Investigaciones en sistemas Linux/Windows, reconstrucción de incidentes.
+
+Análisis de Malware: Identificación de IoCs, análisis estático/dinámico y evaluación de comportamiento.
+
+Automatización: Desarrollo de scripts en Python y Bash para optimizar procesos y flujos SOC.
 
 Proyectos Destacados
+Campañas de Concienciación con GoPhish
 
-1.  Campañas de concienciacion con GoPhish
-
-Sistema completo de análisis de campañas de phishing con GoPhish
+Sistema completo para la ejecución y análisis de campañas de phishing.
+Características:
 
 Configuración automatizada de infraestructura SMTP
-Dashboard de análisis de resultados
+
+Dashboard personalizado para análisis de resultados
+
 Reportes ejecutivos y técnicos
 Stack: GoPhish, Python, Bash
 
-2.  Creacion de reglas personalizadas para SIEM
+Creación de Reglas Personalizadas para SIEM
 
-Colección de reglas de detección personalizadas para SIEM
+Desarrollo de reglas de correlación y detección para Wazuh.
+Incluye:
 
-Reglas para  Wazuh
+Detección de técnicas basadas en MITRE ATT&CK
 
-Detección de técnicas MITRE ATT&CK
-Correlación de eventos avanzada
+Correlación avanzada de eventos
 
-3.  Herramienta de parseo automatico de logs
+Optimización para reducción de ruido y mejora del tiempo de detección (MTTD)
 
-Scripts automatizados para análisis forense de logs y correlación de eventos
+Herramienta de Parseo Automático de Logs
 
-Parsing automático de múltiples formatos
-Detección de IOCs y comportamientos anómalos
-Generación de líneas temporales
+Scripts diseñados para análisis forense y correlación multi-formato.
+Funciones:
+
+Parsing automático de logs en múltiples formatos
+
+Detección de IoCs y comportamientos anómalos
+
+Generación de líneas temporales detalladas
 Stack: Bash, Python, Regex
 
-4.  ENS
-   
-Framework de auditoría basado en Esquema Nacional de Seguridad
+ENS – Esquema Nacional de Seguridad
 
-5. OSINT
+Framework de auditoría orientado al cumplimiento del ENS y evaluación continua del estado de seguridad.
 
-Herramientas y scripts para investigaciones OSINT
+OSINT — Investigación y Recolección de Información
+
+Desarrollo de herramientas y automatizaciones para investigaciones OSINT.
+Capacidades:
 
 Recopilación automatizada de información
-Análisis de fugas de datos
+
+Análisis y verificación de fugas de datos
+
 Correlación de fuentes abiertas
 Herramientas: theHarvester, Maltego, scripts personalizados
